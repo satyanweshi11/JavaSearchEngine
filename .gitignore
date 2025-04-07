@@ -1,0 +1,39 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled files
+*.log
+*.tmp
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build directory
+/bin/
+/out/
+target/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
